@@ -1,7 +1,7 @@
-//donot connect the isp pins during uploading the code
+
 //x ranges from 0 to 315
 // y ranges from 0 to 100 around
-// baud rate is 112500
+
 
   
 #include <Pixy2.h>
